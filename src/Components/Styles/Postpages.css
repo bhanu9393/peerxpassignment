@@ -1,0 +1,22 @@
+.heading {
+  text-align: start;
+}
+.index {
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(97, 178, 248);
+}
+
+.pageLinkHead {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(80, 166, 241);
+}
+
+.pageLinkHead > a {
+  text-decoration: none;
+  color: rgb(97, 178, 248);
+}
+.subText {
+  font-size: 13px;
+}
